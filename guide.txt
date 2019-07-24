@@ -1,0 +1,11 @@
+Download log4j jars from - https://logging.apache.org/log4j/2.0/download.html
+
+just use two jars 
+log4j api 
+log4j core
+
+when root level = erorr then only fail logs be displayed
+when root level = trace then all  logs be displayed
+
+after creating xml file , configure xml file in build path 
+

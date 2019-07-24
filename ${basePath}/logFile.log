@@ -1,0 +1,6 @@
+22:10:57.911 [main] DEBUG alpha.Demo - Debug
+22:10:57.913 [main] FATAL alpha.Demo - fatal
+22:10:57.913 [main] ERROR alpha.Demo - error
+22:11:07.898 [main] DEBUG alpha.Demo - Debug
+22:11:07.901 [main] FATAL alpha.Demo - fatal
+22:11:07.901 [main] ERROR alpha.Demo - error
